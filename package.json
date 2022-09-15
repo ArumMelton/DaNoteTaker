@@ -15,7 +15,8 @@
     "webpack": "^5.74.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.18"
+    "nodemon": "^2.0.18",
+    "webpack-cli": "^4.10.0"
   },
   "engines": {
     "npm": ">=7.0.0",
