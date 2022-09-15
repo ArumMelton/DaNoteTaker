@@ -27,16 +27,18 @@ router.get('/notes/:id', (req, res) => {
     }
   });
 
-router.delete('/notes/:id', (req, res) => {
-    const result = findById(req.params.id, notes);
-    if (result){
-    var oldNotes = notes;
-    let filteredList = oldNotes.filter((note) => note.id !== req.params.id);
-    console.log(filteredList);
-
-fs.writeFileSync('../../db/db.json', JSON.stringify(filteredList));
-    notes = filteredList; 
-    res.json(filteredList);
+  router.delete("/notes/:id", async (req, res) => {
+    const deletedNote = findById(req.params.id, notes);
+    if (deletedNote) {
+      let originalList = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
+      const filteredNote = await originalList.filter(
+        (note) => note.id !== req.params.id
+      );
+  
+      fs.writeFileSync("./db/db.json", JSON.stringify(filteredNote));
+      const newList = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
+  
+      return res.json(newList);
     }
   });
 
