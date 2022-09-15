@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "npm run build",
-    "build": "./node_modules/.bin/webpack --config webpack.conf.js"
+    "heroku-postbuild": "npm run build"
+    
   },
   "author": "",
   "license": "ISC",
