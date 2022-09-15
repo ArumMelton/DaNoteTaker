@@ -11,13 +11,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "webpack": "^5.74.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
   },
-  "engines" : { 
-    "npm" : ">=7.0.0",
-    "node" : "18.3.0"
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": "18.3.0"
   }
 }
