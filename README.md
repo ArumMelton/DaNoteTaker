@@ -53,7 +53,7 @@
 
 
 ## About The Project
-<h3 align="center">EcomeOn!</h3>
+<h3 align="center">DaNoteTaker!</h3>
 
 
 
