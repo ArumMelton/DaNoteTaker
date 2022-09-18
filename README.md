@@ -149,8 +149,8 @@ Distributed under the ISC License.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/badge/EcomeOn%20Contributors-brightgreen
-[contributors-url]: https://github.com/ArumMelton/Ecomeon/graphs/contributors
-[issues-shield]: https://img.shields.io/badge/EcomeOn%20Issues-red
-[issues-url]: https://github.com/ArumMelton/Ecomeon/issues
+[contributors-shield]: https://img.shields.io/badge/DaNoteTaker%20Contributors-brightgreen
+[contributors-url]: https://github.com/ArumMelton/DaNoteTaker/graphs/contributors
+[issues-shield]: https://img.shields.io/badge/DaNoteTaker%20Issues-red
+[issues-url]: https://github.com/ArumMelton/DaNoteTaker/issues
 [license-shield]: https://img.shields.io/badge/license-ISC-green
