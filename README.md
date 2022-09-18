@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/103224098/190882136-b85e2185-56fe-43d5
 ## Deployed Application
 
 <br/>
-[Deployed Application](https://danotetaker-app.herokuapp.com/)
+![Deployed Application](https://danotetaker-app.herokuapp.com/)
 <br/>
 
 
