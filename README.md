@@ -61,6 +61,13 @@ Express/node js application that allows a user to access and manipulate notes wi
 <br/>
 
 
+
+
+https://user-images.githubusercontent.com/103224098/190882136-b85e2185-56fe-43d5-a62d-9ec59cbcd7f2.mov
+
+
+
+<br/>
 ![DemoScreen](/imgs/DaNoteTakerDemo.png)
 
 
