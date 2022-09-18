@@ -1,0 +1,5 @@
+package.json
+package-lock.json
+DS_Store
+check-version.js
+Procfile
