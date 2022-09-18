@@ -33,21 +33,15 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-     <ul>
-      </ul>
-    </li>
+   <ul>
+    <a href="#about-the-project">About The Project</a>
+    <li><a href="#built-with">Built With</a></li>
     <li><a href="#usage">Usage</a></li>
     <a href="#deployed-application">Deployed Application</a>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact-the-contributors">Contact</a></li>
     <li><a href="#license">License</a></li>
+    </ul>
   </ol>
 </details>
 
