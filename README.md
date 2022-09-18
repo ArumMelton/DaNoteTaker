@@ -40,11 +40,11 @@
       </ul>
     </li>
     <li>
-      <a href="#deployed-application">Deployed Application</a>
-      <ul>
+     <ul>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <a href="#deployed-application">Deployed Application</a>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact-the-contributors">Contact</a></li>
     <li><a href="#license">License</a></li>
@@ -68,14 +68,8 @@ https://user-images.githubusercontent.com/103224098/190882136-b85e2185-56fe-43d5
 
 
 <br/>
-![DemoScreen](/imgs/DaNoteTakerDemo.png)
-
 
 <p align="right"><a href="#top">back to top</a></p>
-
-## Deployed Application
-
-[Deployed Application](https://danotetaker-app.herokuapp.com/)
 
 <br/>
 
@@ -96,9 +90,11 @@ https://user-images.githubusercontent.com/103224098/190882136-b85e2185-56fe-43d5
 
 
 
+## Deployed Application
 
-
-
+<br/>
+[Deployed Application](https://danotetaker-app.herokuapp.com/)
+<br/>
 
 
 
@@ -136,11 +132,12 @@ Don't forget to give the project a star! Thanks again!
 ### Contact the Contributors
 
 Arum Melton - arumjmelton@gmail.com
-
+<br/>
 
 [Project Link](https://github.com/ArumMelton/DaNoteTaker)
+<br/>
 [Deployed Application](https://danotetaker-app.herokuapp.com/)
-
+<br/>
 <p align="right"><a href="#top">back to top</a></p>
 
 <!-- LICENSE -->
